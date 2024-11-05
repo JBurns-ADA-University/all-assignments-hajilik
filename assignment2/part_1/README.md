@@ -33,6 +33,7 @@ To convert the given machine code to assembly, I followed these steps:
   - **Alphabetical list of Thumb instructions**: See page A7-2
   - **Thumb instructions and architecture versions**: See page A7-104
 - ARM assembly guides for understanding opcodes and instruction formats.
+- Used GPT-4o to double check it.
 
 For more details, check the comments within `assembly_code.s`.
 
