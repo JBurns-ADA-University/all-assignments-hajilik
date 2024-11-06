@@ -17,3 +17,5 @@ This assigmnent involves converting machine code to ARM assembly and then interp
 
 ## Notes
 You cna change and test different values to explore the program’s behavior.
+
+You can find screenshots in blackboard submission also
